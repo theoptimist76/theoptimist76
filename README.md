@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning flutter, pentesting, CTFs
 - 👯 I’m looking to collaborate on flutter projects
 - 💬 Ask me about HTML,CSS,JS,Flutter,C,C++,PHP,MYSql,Linux
-- 📫 How to reach me: ### Social Media:- < [Facebook](https://www.facebook.com/rijalbigyan76/) > < [Instagram](https://www.instagram.com/rijalbigyan76/) > < [Linked In](https://www.linkedin.com/in/bigyan-rijal-70bb62179/) > ###
+- 📫 How to reach me: < [Facebook](https://www.facebook.com/rijalbigyan76/) > < [Instagram](https://www.instagram.com/rijalbigyan76/) > < [Linked In](https://www.linkedin.com/in/bigyan-rijal-70bb62179/) > ###
 - 😄 Pronouns: He/They
 - ⚡ Fun fact: Footballer
 --> 
