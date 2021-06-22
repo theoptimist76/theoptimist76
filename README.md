@@ -1,4 +1,4 @@
-# `Hello!!` It's me Bigyan Rijal
+# `Hi there!!` It's me Bigyan Rijal
 
 _I am an undergraduate student currently studying Bachelor of Information Technology at Cosmos College of Management and Technology._
 
@@ -10,10 +10,10 @@ _I am an undergraduate student currently studying Bachelor of Information Techno
 - 🌱 I’m currently learning flutter, pentesting, CTFs
 - 👯 I’m looking to collaborate on flutter projects
 - 💬 Ask me about HTML,CSS,JS,Flutter,C,C++,PHP,MYSql,Linux
-- 📫 How to reach me: < [Facebook](https://www.facebook.com/rijalbigyan76/) > < [Instagram](https://www.instagram.com/rijalbigyan76/) > < [Linked In](https://www.linkedin.com/in/bigyan-rijal-70bb62179/) > ###
+- 📫 How to reach me:  [Facebook](https://www.facebook.com/rijalbigyan76/)  [Instagram](https://www.instagram.com/rijalbigyan76/)  [Linked In](https://www.linkedin.com/in/bigyan-rijal-70bb62179/) 
 - 😄 Pronouns: He/They
 - ⚡ Fun fact: Footballer
-- Neymar ❤️ _FC Barcelona
+- Neymar ❤️ _FC Barcelona_
 ```
 Strength comes from doing things you thought you couldn’t💻
 ```
