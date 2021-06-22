@@ -1,16 +1,22 @@
-### Hi there 👋
+# `Hello!!` It's me Bigyan Rijal
 
-<!--
-**theoptimist76/theoptimist76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+_I am an undergraduate student currently studying Bachelor of Information Technology at Cosmos College of Management and Technology._
+
+**A enthusiast in IT and Technology, as well as in CyberSecurity Field.**
+
+<div style="align:center"><img src="https://avatars.githubusercontent.com/u/49486923?s=460&u=0fc0720158906452e0a4f8d3925dd069bf9994e1&v=4" /></div> 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on self learning
+- 🌱 I’m currently learning flutter, pentesting, CTFs
+- 👯 I’m looking to collaborate on flutter projects
+- 💬 Ask me about HTML,CSS,JS,Flutter,C,C++,PHP,MYSql,Linux
+- 📫 How to reach me: ### Social Media:- < [Facebook](https://www.facebook.com/rijalbigyan76/) > < [Instagram](https://www.instagram.com/rijalbigyan76/) > < [Linked In](https://www.linkedin.com/in/bigyan-rijal-70bb62179/) > ###
+- 😄 Pronouns: He/They
+- ⚡ Fun fact: Footballer
+--> 
+```
+Strength comes from doing things you thought you couldn’t💻
+```
+Made with ❤️
