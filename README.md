@@ -9,7 +9,7 @@ _I am an undergraduate student currently studying Bachelor of Information Techno
 - 🔭 I’m currently working on self learning
 - 🌱 I’m currently learning flutter, pentesting, CTFs
 - 👯 I’m looking to collaborate on flutter projects
-- 💬 Ask me about HTML,CSS,JS,Flutter,C,C++,PHP,MYSql,Linux
+- 💬 Ask me about HTML,CSS,JS,Flutter,C,C++,Python,PHP,MYSql,Linux
 - 📫 How to reach me:  [Facebook](https://www.facebook.com/rijalbigyan76/)  [Instagram](https://www.instagram.com/rijalbigyan76/)  [Linked In](https://www.linkedin.com/in/bigyan-rijal-70bb62179/) 
 - 😄 Pronouns: He/They
 - ⚡ Fun fact: Footballer
