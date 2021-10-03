@@ -4,8 +4,6 @@ _I am an undergraduate student currently studying Bachelor of Information Techno
 
 **A enthusiast in IT and Technology, as well as in CyberSecurity Field.**
 
-<div style="align:center"><img src="https://avatars.githubusercontent.com/u/49486923?s=460&u=0fc0720158906452e0a4f8d3925dd069bf9994e1&v=4" /></div> 
-
 - 🔭 I’m currently working on self learning
 - 🌱 I’m currently learning flutter, pentesting, CTFs
 - 👯 I’m looking to collaborate on flutter projects
