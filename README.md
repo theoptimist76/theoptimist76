@@ -10,7 +10,7 @@ _I am an undergraduate student currently studying Bachelor of Information Techno
 - 📫 How to reach me:  [Facebook](https://www.facebook.com/rijalbigyan76/)  [Instagram](https://www.instagram.com/rijalbigyan76/)  [Linked In](https://www.linkedin.com/in/bigyan-rijal-70bb62179/) 
 - 😄 Pronouns: He/They
 - ⚡ Fun fact: Footballer
-- NFootball : Neymar Jr.
+- Football : Neymar Jr.
 ```
 Strength comes from doing things you thought you couldn’t💻
 ```
